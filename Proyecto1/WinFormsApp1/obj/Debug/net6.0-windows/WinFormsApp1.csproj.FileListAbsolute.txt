@@ -1,7 +1,0 @@
-C:\Users\mauri\source\repos\Proyecto1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
-C:\Users\mauri\source\repos\Proyecto1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
-C:\Users\mauri\source\repos\Proyecto1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
-C:\Users\mauri\source\repos\Proyecto1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mauri\source\repos\Proyecto1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
-C:\Users\mauri\source\repos\Proyecto1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
-C:\Users\mauri\source\repos\Proyecto1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
